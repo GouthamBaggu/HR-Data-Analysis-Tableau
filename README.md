@@ -25,7 +25,7 @@ HR-Data-Analysis-Tableau/
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/hr_dashboard_sample.png)
+![Dashboard](Charts/Dashboard.png)
 
 ## 🔒 Disclaimer
 This dataset is anonymized and for educational purposes only.
